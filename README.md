@@ -12,11 +12,11 @@ I'm Saswata Kumar Dash, an experienced intern and app developer with a passion f
 
 ## Portfolio Website
 
-To view my portfolio website, visit [Saswata Kumar Dash - Portfolio](https://myportfolio-ruddy-two.vercel.app/homepage.html). Here you'll find detailed information about my skills, experience, projects, and more.
+To view my portfolio website, visit [Saswata Kumar Dash - Portfolio](https://saswata-kumar-dash.vercel.app/homepage.htmll). Here you'll find detailed information about my skills, experience, projects, and more.
 
 ## GitHub Repository
 
-For a complete overview of my projects, including the source code, visit my [GitHub repository](https://github.com/SKD01HASH/myportfolio). You'll find a wide range of projects, demonstrating my expertise in various technologies and programming languages.
+For a complete overview of my projects, including the source code, visit my [GitHub repository](https://github.com/saswatakumardash). You'll find a wide range of projects, demonstrating my expertise in various technologies and programming languages.
 
 ## Contact
 
