@@ -12,7 +12,7 @@ I'm Saswata Kumar Dash, an experienced intern and app developer with a passion f
 
 ## Portfolio Website
 
-To view my portfolio website, visit [Saswata Kumar Dash - Portfolio](https://saswata-kumar-dash.vercel.app/homepage.htmll). Here you'll find detailed information about my skills, experience, projects, and more.
+To view my portfolio website, visit [Saswata Kumar Dash - Portfolio](https://saswata-kumar-dash.vercel.app/homepage.html). Here you'll find detailed information about my skills, experience, projects, and more.
 
 ## GitHub Repository
 
